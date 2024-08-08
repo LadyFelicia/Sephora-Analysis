@@ -1,20 +1,21 @@
-## **Project name:** **Sephora Products & Skincare Analysis
+## **Project name:** Sephora Products & Skincare Analysis
 
 **Objective**: I acted as an independent data consultant 
+
 
 **Project Overview:** 
 
 This project will leverage a comprehensive dataset of Sephora beauty products and user reviews to derive actionable insights for product pricing and promotions, brand and product performance analysis, competitive analysis, and trend identification. It aims to drive strategic decisions that will enhance product offerings, improve customer satisfaction, and achieve business growth in the beauty industry. 
 
+
 **Problems**: 
 
 1. **Optimizing Product Pricing and Promotions**
-    
-    Determine the optimal pricing strategy and promotion tactics to maximize revenue and customer satisfaction.
-    
-2. **Brand and Product Performance Analysis**: Understand which brands and products perform best and why
-3. **Competitive Analysis**: Gain insights into how Sephora’s products and brands compare to competitors
-4. **Trend Identification**: Identify emerging trends in the beauty and skincare industry to stay ahead of market changes
+2. Determine the optimal pricing strategy and promotion tactics to maximize revenue and customer satisfaction.
+3. **Brand and Product Performance Analysis**: Understand which brands and products perform best and why
+4. **Competitive Analysis**: Gain insights into how Sephora’s products and brands compare to competitors
+5. **Trend Identification**: Identify emerging trends in the beauty and skincare industry to stay ahead of market changes
+
 
 **Questions**:
 
@@ -30,17 +31,20 @@ Q5: How do Sephora’s product ratings and reviews compare to competitors?
 
 Q6: What categories were popular based on sales?
 
+
 **Data Source**: Kaggle
 
 Dataset - Sephora Products & Skincare Review
 
 Link to the raw dataset:  https://www.kaggle.com/datasets/nadyinky/sephora-products-and-skincare-reviews?select=product_info.csv
 
+
 **Tools Used**:  
 
 Data Analysis part → Data Visualization part
 
  MS Excel —>Microsoft SQL Server —> Microsoft Power BI 
+
 
 **Data analysis**: 
 
@@ -84,13 +88,16 @@ FROM product_info AS p
 LEFT JOIN reviews_info AS r
 ON p.product_id = r.product_id;
 
+
 **Data Visualization:** 
 
 I used Power BI to visualize the analysis findings in the Sephora beauty products and user reviews dataset, highlighting patterns and trends for business decision-making.
 
+
 **Dashboard:**
 
 [Sephora Products & Skincare Analysis.pdf](https://github.com/user-attachments/files/16549338/Sephora.Products.Skincare.Analysis.pdf)
+
 
 **Insights from the analysis**: 
 
