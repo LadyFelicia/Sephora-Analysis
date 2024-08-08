@@ -95,8 +95,7 @@ I used Power BI to visualize the analysis findings in the Sephora beauty product
 
 
 **Dashboard:**
-
-[Sephora Products & Skincare Analysis.pdf](https://github.com/user-attachments/files/16549338/Sephora.Products.Skincare.Analysis.pdf)
+![Sephora Dashboard](https://github.com/user-attachments/assets/45c6751e-b1e7-43ef-b9f9-2c587efe6694)
 
 
 **Insights from the analysis**: 
