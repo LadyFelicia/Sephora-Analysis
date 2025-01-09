@@ -1,6 +1,6 @@
 ## **Project name:** Sephora Products & Skincare Analysis
 
-**Objective**: I acted as an Data Analyst 
+**Objective**: I acted as an Data Analyst. 
 
 
 **Project Overview:** 
